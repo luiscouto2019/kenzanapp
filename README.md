@@ -8,4 +8,4 @@ Steps to execute the app
 
 a)  Import the proyect as maven proyect
 b)  Execute as spring boot app
-c)  Open the main page of the Employee module by excuting the url : http://localhost:8080/moduleEmployees/searchEmployee
+c)  Open the main page of the Employee module by executing the url : http://localhost:8080/moduleEmployees/searchEmployee
